@@ -10,7 +10,7 @@ on:
 env:
   # settings:
   AWS_REGION: eu-west-3
-  ECR_REPOSITORY: jo24-back-caddy
+  ECR_REPOSITORY: jo24-back-caddy-repo
 
 permissions:
   contents: read
